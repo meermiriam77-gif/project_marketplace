@@ -101,8 +101,3 @@ This project is licensed under the MIT License.
 Feel free to use, modify, and distribute with attribution.
 ```
 
----
-
-Now your `README.md` points directly to the original Google Doc for deeper context.  
-
-Would you like me to also add a **“Screenshots” section** with placeholders so you can drop in images later? That would make the repo more visually appealing.
